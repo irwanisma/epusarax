@@ -20,5 +20,6 @@ class PenetapanController extends Controller
         //    return view($request->path());
         //}
         //return abort(404);
+        $tukar = "tukar";
     }
 }
